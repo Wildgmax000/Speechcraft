@@ -1,6 +1,6 @@
 # Speechcraft
 An attempt at a natural language text adventure.
-All coding will be done in Java through NetBeans IDE
+All coding will be done in Java through NetBeans IDE.
 
 #To Do
 1. Form lists of adjectives in order of severity (the relative strength that the expression implies e.g. huge>big)
